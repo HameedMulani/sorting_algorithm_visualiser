@@ -8,7 +8,7 @@
   margin: 0px;
   padding: 0px;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: large;
+  font-size: 16px;
   font-weight: bold;
   text-transform: uppercase;
 }
@@ -46,6 +46,7 @@ nav .array-inputs #a_generate {
   background-color: brown;
   border: none;
   outline: none;
+  margin-top: 10px;
   color:yellowgreen;
   padding: 4% 4% 4% 4%;
   padding-left: 0%;
@@ -88,7 +89,7 @@ nav .header_right .algos button {
   color: white;
   outline: none;
   padding: 5% 0%;
-  font-size: x-large;
+  font-size: large;
 }
 
 nav .header_right .algos button:hover {
